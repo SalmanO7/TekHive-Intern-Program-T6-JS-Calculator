@@ -13,3 +13,22 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ## Prerequisites
 To run the calculator, you need a web browser. No additional software is required.
+
+## Usage
+Open the index.html file in your preferred web browser to start using the calculator.
+
+## File Structure
+Copy code
+## responsive-calculator/
+├── index.html
+├── styles.css
+└── script.js
+
+index.html: Contains the structure of the calculator.
+styles.css: Contains the styling for the calculator to ensure it is responsive and visually appealing.
+script.js: Contains the logic for handling arithmetic operations and user interactions.
+
+## Customization
+You can customize the calculator by editing the CSS and JavaScript files:
+styles.css: Modify styles such as colors, fonts, and layout.
+script.js: Update or add new functionalities and modify existing logic.
