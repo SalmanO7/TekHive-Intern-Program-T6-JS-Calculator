@@ -1,5 +1,4 @@
 # Responsive Calculator
-
 This is a responsive calculator built using HTML, CSS, and JavaScript. The calculator is designed to work seamlessly on various devices, providing a user-friendly interface for performing basic arithmetic operations.
 
 ## Features
